@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Zahra-Ashoori/Zahra-Ashoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Backend Developer.
 - 🌱 I’m currently learning Machine learning!
 
@@ -28,4 +22,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zahraashoori/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-alirzagz-blue?style=for-the-badge&logo=linkedin"></a>
   </p>
 </details>
+<!--
+**Zahra-Ashoori/Zahra-Ashoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
