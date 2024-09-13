@@ -1,6 +1,6 @@
 ## Hi there, I'm Zahra  👋
-- 🔭 I’m currently working as Backend Developer.
-- 🌱 I’m currently learning ML and AI!
+- 👩🏻‍💻 I’m currently working as Backend Developer.
+- 👩🏻‍🎓 I’m currently learning ML and AI!
 
 > I'm so interested in AI and Healthcare fields.<br>
 > I have some experience in SQL and databases. I converted datasets to our own system from others. Also, I maintain and developed SP's and functions.<br>
