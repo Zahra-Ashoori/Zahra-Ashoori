@@ -1,5 +1,7 @@
 ## Hi there, I'm Zahra  👋
-- 👩🏻‍🎓 I’m currently learning ML and AI!
+- 🎓 M.Sc. student in Artificial Intelligence.
+Always curious, always learning.
+Passionate about AI, neuroscience, and real-world impact.
 
 > I'm so interested in AI and Healthcare fields.<br>
 > I have some experience in SQL and databases. Converting Data, maintain and develop SP's, functions and etc.<br>
