@@ -3,7 +3,7 @@
 Always curious, always learning.
 Passionate about AI, neuroscience, and real-world impact.
 
-> I'm so interested in AI and Healthcare fields.<br>
+> I'm so interested in AI and neuroscience.<br>
 > I have some experience in SQL and databases. Converting Data, maintain and develop SP's, functions and etc.<br>
 > I have a serious passion for learning new things.<br>
 <br>
